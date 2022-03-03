@@ -141,9 +141,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ToDo_Mvc\\ToDo-Mvc.csproj",
-      "projectName": "ToDo-Mvc",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ToDo_Mvc\\ToDo-Mvc.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ToDo_Mvc\\ToDo_Mvc.csproj",
+      "projectName": "ToDo_Mvc",
+      "projectPath": "C:\\Users\\User\\source\\repos\\ToDo_Mvc\\ToDo_Mvc.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\source\\repos\\ToDo_Mvc\\obj\\",
       "projectStyle": "PackageReference",
